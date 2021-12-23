@@ -1,7 +1,7 @@
-# Chat simple
+# Cola de tickets
 
-> Test chat
-  
+> Simula sala de espera
+
 ## Get Start
 
 You have to run ``` npm i ``` to install all the dependencies.
